@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Yellowtail', cursive;
+}
+
+body{
+    background-image: url('mandala.png');
+
+background-size: cover;
+}
+#back{
+    background-color:aquamarine;
+    width: 200px;
+    border-radius: 75px;
+    border: none;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 34px;
+}

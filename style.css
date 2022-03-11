@@ -1,0 +1,25 @@
+ #help{
+
+    background-color:aquamarine;
+    width: 150px;
+    border-radius: 75px;
+    border: none;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 34px;
+}
+h1{
+    font-family: 'Yellowtail', cursive;
+}
+#monitor{
+    background-color:aquamarine;
+    width: 200px;
+    border-radius: 75px;
+    border: none;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 34px;
+}
+
+body{
+background-image: url('mandala.png');
+background-size: cover;
+}
